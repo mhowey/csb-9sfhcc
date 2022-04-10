@@ -1,0 +1,31 @@
+{
+  "version": "ccf2bbaf",
+  "entry": {
+    "module": "/build/entry.client-H5H3STCT.js",
+    "imports": [
+      "/build/_shared/chunk-6FL7A3GW.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-C2QJW75L.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": true,
+      "hasErrorBoundary": true
+    },
+    "routes/index": {
+      "id": "routes/index",
+      "parentId": "root",
+      "index": true,
+      "module": "/build/routes/index-FZGT7KB4.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    }
+  },
+  "url": "/build/manifest-CCF2BBAF.js"
+}
